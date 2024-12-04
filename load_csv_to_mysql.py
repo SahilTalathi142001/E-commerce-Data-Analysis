@@ -82,7 +82,7 @@ conn = mysql.connector.connect(
 cursor = conn.cursor()
 
 #Folder path containing CSV files
-folder_path = 'C:/Users/Sagar/OneDrive/Desktop/ecommerce/'
+folder_path = 'path'
 
 #Process the CSV files
 process_csv_files(folder_path, csv_files, cursor)
