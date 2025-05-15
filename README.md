@@ -32,15 +32,15 @@ The dataset includes:
 - Seller Data: Seller id, seller city, seller state
 
 ## Steps Performed
-###1. Data Ingestion
+1. Data Ingestion
 
 - Loaded CSV files into MySQL using Python (with error handling & logs)
 
-###2. Data Cleaning
+2. Data Cleaning
 
 - Removed duplicates, nulls, and handled inconsistent formats
 
-###3. Data Analysis (SQL)
+3. Data Analysis (SQL)
 
 - Top-selling products and categories
 
@@ -50,7 +50,7 @@ The dataset includes:
 
 - Sales distribution by region and gender
 
-###4. Dashboard in Power BI
+4. Dashboard in Power BI
 
 - Total Sales by Month and Year
 
