@@ -1,8 +1,8 @@
-#🛒 E-commerce Data Analysis
+# E-commerce Data Analysis
 
 This project performs a comprehensive analysis of an E-commerce dataset to uncover insights into customer behavior, sales trends, product performance, and geographical impact using Python, MySQL, and Power BI.
 
-##📌 Project Objectives
+## Project Objectives
 - Analyze and interpret E-commerce transactional data
 
 - Automate data ingestion and cleaning using Python
@@ -11,7 +11,7 @@ This project performs a comprehensive analysis of an E-commerce dataset to uncov
 
 - Build interactive dashboards using Power BI
 
-##🧰 Tools & Technologies
+## Tools & Technologies
 - Programming: Python
 
 - Database: MySQL
@@ -20,7 +20,7 @@ This project performs a comprehensive analysis of an E-commerce dataset to uncov
 
 - Automation: Python scripting
 
-##🗂️ Dataset Description
+## Dataset Description
 The dataset includes:
 
 - Customer Data: Customer id, Customer unique id, Customer zip code prefix, Customer city, Customer state
@@ -31,7 +31,7 @@ The dataset includes:
 
 - Seller Data: Seller id, seller city, seller state
 
-##🛠️ Steps Performed
+## Steps Performed
 ###1. Data Ingestion
 
 - Loaded CSV files into MySQL using Python (with error handling & logs)
@@ -65,7 +65,7 @@ The dataset includes:
 - Number of Orders per Month in 2018
 
 
-##📈 Key Insights
+## Key Insights
 - Sales peaked in September and October, indicating seasonal demand.
 
 - Watches and Sports were the highest-selling categories.
